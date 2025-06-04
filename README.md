@@ -1,4 +1,4 @@
-## Olá, eu sou Yuri Deiverson e sou Desenvolvedor Front-end React!
+## Olá, eu sou Yuri Deiverson e sou um Desenvolvedor Fullstack com foco em Frontend React.js/React Native!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

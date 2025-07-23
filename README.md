@@ -1,8 +1,10 @@
 # 🤗 Olá, sou Yuri Deiverson!
 
-**`Desenvolvedor FullStack/ Engenheiro de dados`**
+**`Desenvolvedor FullStack`**
 
-Sou desenvolvedor fullstack e engenheiro de dados, criando soluções digitais modernas e funcionais, do conceito à implementação. Atuo desde o planejamento e arquitetura de sistemas até a construção de interfaces intuitivas e a integração inteligente de dados. Tenho como foco desenvolver aplicações escaláveis, com performance e experiência do usuário em primeiro lugar, utilizando boas práticas de código, automação e análise de dados para resolver problemas reais de forma eficiente.
+Sou Desenvolvedor Fullstack com experiência no desenvolvimento de aplicações web e mobile, utilizando tecnologias como React, React Native, Node.js, TypeScript, PostgreSQL e MongoDB. Tenho habilidade em construir interfaces modernas e responsivas, integrar APIs de forma eficiente e aplicar boas práticas de desenvolvimento para entregar soluções escaláveis e de alta qualidade.
+
+Atuo com foco na experiência do usuário e na performance das aplicações, buscando sempre entregar sistemas robustos e bem estruturados. Além disso, possuo experiência prévia com manutenção de computadores e suporte técnico, adquirida durante minha atuação como analista de sistemas, o que amplia minha visão técnica e capacidade de resolução de problemas em diferentes camadas da tecnologia.
 
 ---
 

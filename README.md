@@ -75,13 +75,7 @@ Tenho interesse constante em **engenharia de software, dados e IA**, aplicando e
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YuriDeiverson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
+  
 
 <img 
  align="left" 
@@ -90,11 +84,5 @@ Tenho interesse constante em **engenharia de software, dados e IA**, aplicando e
  src="https://streak-stats.demolab.com/?user=YuriDeiverson&theme=tokyonight" 
 />
 
-<img 
- align="left" 
- alt="Tecnologias mais utilizadas" 
- height="200" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDeiverson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
 
 </p>

@@ -134,7 +134,7 @@ Atuo com foco na experiência do usuário e na performance das aplicações, bus
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YuriDeiverson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[![GitHub Streak](https://streak-stats.demolab.com/?user=YuriDeiverson)](https://git.io/streak-stats)" 
   />
 
 <img 
